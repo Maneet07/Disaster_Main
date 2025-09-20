@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "earthquake-video-bg",
+      "description": "Educational video about earthquakes",
+      "imageUrl": "https://picsum.photos/seed/earthquake/980/420",
+      "imageHint": "cracked ground"
+    },
+    {
+      "id": "flood-video-bg",
+      "description": "Educational video about floods",
+      "imageUrl": "https://picsum.photos/seed/flood/980/420",
+      "imageHint": "flooded street"
+    },
+    {
+      "id": "volcano-video-bg",
+      "description": "Educational video about volcanic eruptions",
+      "imageUrl": "https://picsum.photos/seed/volcano/980/420",
+      "imageHint": "erupting volcano"
+    }
+  ]
+}
